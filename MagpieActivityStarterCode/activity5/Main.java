@@ -13,7 +13,7 @@ public class Main
 	 */
 	public static void main(String[] args)
 	{
-		Magpie2 maggie = new Magpie2();
+		Magpie5 maggie = new Magpie5();
 		
 		System.out.println (maggie.getGreeting());
 		Scanner in = new Scanner (System.in);
